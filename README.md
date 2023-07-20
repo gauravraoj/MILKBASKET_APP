@@ -1,0 +1,3 @@
+MilkBasket is a user-friendly mobile app designed exclusively for milk vendors to efficiently manage their daily operations. The app is developed using Java and utilizes Firebase to store and secure customer data. It offers two convenient payment options for customers - cash and QR code payments. 
+
+The app caters to two types of milk - cow and buffalo, allowing vendors to easily keep track of their milk inventory and sales. With a focus on simplicity and ease of use, MilkBasket empowers milk vendors to maintain a seamless payment history for their customers and provides valuable insights for better business management.
