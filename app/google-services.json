@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511942590938",
+    "project_id": "doodh-78e93",
+    "storage_bucket": "doodh-78e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511942590938:android:a3c981824f2dc62c68c0e3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511942590938-6hs97erfepk76ht8r61kfphhtbhgles2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADSp4HAi5zu-Y9rFFUGHwJGUh1nuY-aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511942590938-6hs97erfepk76ht8r61kfphhtbhgles2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

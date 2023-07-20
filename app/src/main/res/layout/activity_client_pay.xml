@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:orientation="vertical"
+    android:padding="20sp"
+    android:background="@drawable/rectpay"
+
+    tools:context=".SubActivity.ClientPayActivity">
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Record new pay"
+        android:id="@+id/cprecpay"/>
+
+
+
+
+    <Button
+        android:id="@+id/cpbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_3"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:textStyle="bold"
+
+        android:text="Update Pay" />
+
+
+
+</RelativeLayout>
